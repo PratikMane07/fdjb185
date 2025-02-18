@@ -6,5 +6,8 @@ public class Employee {
 	{
 		
 	}
+	public void f2(){
+		
+	}
 
 }
