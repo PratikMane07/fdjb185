@@ -10,7 +10,9 @@ public class Employee {
 		
 		System.out.println("this is f2");
 	}
-	
+	public void f3(){
+		
+	}
 	public static void main(String[] args) {
 		
 	}
