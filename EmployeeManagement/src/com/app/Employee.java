@@ -13,6 +13,9 @@ public class Employee {
 	public void f3(){
 		
 	}
+	public void f4(){
+		
+	}
 	public static void main(String[] args) {
 		
 	}
