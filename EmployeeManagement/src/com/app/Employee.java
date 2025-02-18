@@ -8,6 +8,11 @@ public class Employee {
 	}
 	public void f2(){
 		
+		System.out.println("this is f2");
+	}
+	
+	public static void main(String[] args) {
+		
 	}
 
 }
